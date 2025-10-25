@@ -7,3 +7,7 @@
 
 lxml==3.4.4
 cssselect==0.9.1
+cloudscraper
+beautifulsoup4
+pandas
+lxml
